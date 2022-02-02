@@ -1,0 +1,14 @@
+# qssi-user 11 RP1A.201005.001 2201171931 release-keys
+- manufacturer: 
+- platform: lito
+- codename: Nord
+- flavor: qssi-user
+- release: 11
+- id: RP1A.201005.001
+- incremental: 2201171931
+- tags: release-keys
+- fingerprint: OnePlus/Nord/Nord:11/RP1A.201005.001/2201171931:user/release-keys
+- is_ab: true
+- brand: OnePlus
+- branch: qssi-user-11-RP1A.201005.001-2201171931-release-keys
+- repo: oneplus_nord_dump

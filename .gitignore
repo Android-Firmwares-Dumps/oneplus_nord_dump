@@ -1,0 +1,7 @@
+reserve.img
+system_ext/priv-app/Settings/Settings.apk
+system_ext/priv-app/OnePlusGallery/OnePlusGallery.apk
+system_ext/priv-app/OnePlusCamera/OnePlusCamera.apk
+system/system/apex/com.android.vndk.current.apex
+product/priv-app/Velvet/Velvet.apk
+product/priv-app/GmsCore/GmsCore.apk
